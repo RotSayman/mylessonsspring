@@ -1,5 +1,6 @@
 package com.pashashyla.myfirstapp;
 
+
 import org.springframework.stereotype.Component;
 
 @Component
